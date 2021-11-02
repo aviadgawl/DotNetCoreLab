@@ -13,3 +13,9 @@
 
 1. https://www.tutorialsteacher.com/ioc
 2. https://en.wikipedia.org/wiki/Inversion_of_control
+
+## Getting Started
+
+1. `git clone https://github.com/aviadgawl/DotNetCoreLab.git`
+2. `cd InversionOfControl\InversionOfControl`
+3. `cd dotnet run test`
