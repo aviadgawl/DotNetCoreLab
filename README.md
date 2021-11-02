@@ -18,4 +18,4 @@
 
 1. `git clone https://github.com/aviadgawl/DotNetCoreLab.git`
 2. `cd InversionOfControl\InversionOfControl.UnitTests`
-3. `cd dotnet run test`
+3. `dotnet run test`
