@@ -1,3 +1,3 @@
 # DotNetCoreLab
 
-![hi](https://github.com/aviadgawl/DotNetCore/InversionOfControl/InversionOfControl.Assets/ioc-buzzwords.png?raw=true)
+![buzz words](https://github.com/aviadgawl/DotNetCoreLab/blob/main/InversionOfControl/InversionOfControl.Assets/ioc-buzzwords.png)
