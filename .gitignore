@@ -1,3 +1,4 @@
 # Ignore Folders
 obj/
 bin/
+TestResults/
