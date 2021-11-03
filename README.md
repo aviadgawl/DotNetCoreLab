@@ -1,6 +1,6 @@
 # DotNetCoreLab
 
-This reposetory contain simple examples of programing subjects in the .net core framework.
+This repository contain simple examples of programing subjects in the .net core framework.
 
 ## Inversion Of Control
 
