@@ -1,5 +1,9 @@
 # DotNetCoreLab
 
+This reposetory contain simple examples of programing subjects in the .net core framework.
+
+## Inversion Of Control
+
 ![ioc buzzwords](https://github.com/aviadgawl/DotNetCoreLab/blob/main/InversionOfControl/InversionOfControl.Assets/ioc-buzzwords.png)
 
 1. Inversion of Control(IOC) - is a programming principle that referers to share the depandacy responsibility by other object.
@@ -9,12 +13,12 @@
 
 ![principles and patterns](https://github.com/aviadgawl/DotNetCoreLab/blob/main/InversionOfControl/InversionOfControl.Assets/principles-and-patterns.png)
 
-## Refrences
+### Refrences
 
 1. https://www.tutorialsteacher.com/ioc
 2. https://en.wikipedia.org/wiki/Inversion_of_control
 
-## Getting Started
+### Getting Started
 
 1. `git clone https://github.com/aviadgawl/DotNetCoreLab.git`
 2. `cd InversionOfControl\InversionOfControl.UnitTests`
